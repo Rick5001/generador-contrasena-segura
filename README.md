@@ -6,10 +6,10 @@ Este proyecto genera contraseñas seguras y aleatorias con la opción de persona
 
 ##  Características
 
-- 🔒 Contraseñas seguras generadas con el módulo `secrets`
-- 🛠️ Opción de personalizar longitud y tipos de caracteres
-- ⚡ Generación automática rápida
-- ✅ Validación de entrada y manejo de errores
+-  Contraseñas seguras generadas con el módulo `secrets`
+-  Opción de personalizar longitud y tipos de caracteres
+-  Generación automática rápida
+-  Validación de entrada y manejo de errores
 
 ---
 
